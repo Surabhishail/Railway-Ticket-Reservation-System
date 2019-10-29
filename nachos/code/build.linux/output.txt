@@ -1,0 +1,403 @@
+0 Business passengers and 0 Coach passengers on-boarded the train 1 at minute 1
+0 Business passengers and 0 Coach passengers on-boarded the train 3 at minute 5
+Reservations summary for minute 10
+Reservations granted: 2
+Reservations refused: 5
+0 Business passengers and 7 Coach passengers on-boarded the train 5 at minute 11
+0 Business passengers and 0 Coach passengers off-boarded the train 5 at minute 12
+0 Business passengers and 0 Coach passengers off-boarded the train 3 at minute 17
+Reservations summary for minute 20
+Reservations granted: 2
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers off-boarded the train 1 at minute 20
+Reservations summary for minute 30
+Reservations granted: 1
+Reservations refused: 4
+Reservations summary for minute 40
+Reservations granted: 5
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers on-boarded the train 1 at minute 45
+Reservations summary for minute 50
+Reservations granted: 2
+Reservations refused: 4
+Reservations summary for minute 60
+Reservations granted: 1
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers off-boarded the train 1 at minute 65
+Reservations summary for minute 70
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 80
+Reservations granted: 1
+Reservations refused: 5
+0 Business passengers and 5 Coach passengers on-boarded the train 2 at minute 80
+Reservations summary for minute 90
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 2 Coach passengers on-boarded the train 3 at minute 90
+0 Business passengers and 0 Coach passengers off-boarded the train 2 at minute 92
+Reservations summary for minute 100
+Reservations granted: 2
+Reservations refused: 5
+Reservations summary for minute 110
+Reservations granted: 1
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers off-boarded the train 3 at minute 111
+0 Business passengers and 0 Coach passengers on-boarded the train 5 at minute 111
+0 Business passengers and 0 Coach passengers off-boarded the train 5 at minute 112
+Reservations summary for minute 120
+Reservations granted: 0
+Reservations refused: 4
+4 Business passengers and 8 Coach passengers on-boarded the train 1 at minute 120
+Reservations summary for minute 130
+Reservations granted: 1
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers off-boarded the train 1 at minute 130
+Reservations summary for minute 140
+Reservations granted: 1
+Reservations refused: 4
+Reservations summary for minute 150
+Reservations granted: 2
+Reservations refused: 5
+Reservations summary for minute 160
+Reservations granted: 1
+Reservations refused: 4
+Reservations summary for minute 170
+Reservations granted: 1
+Reservations refused: 5
+Reservations summary for minute 180
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 190
+Reservations granted: 1
+Reservations refused: 5
+Reservations summary for minute 200
+Reservations granted: 1
+Reservations refused: 4
+Reservations summary for minute 210
+Reservations granted: 1
+Reservations refused: 4
+0 Business passengers and 8 Coach passengers on-boarded the train 3 at minute 210
+0 Business passengers and 10 Coach passengers on-boarded the train 5 at minute 211
+0 Business passengers and 7 Coach passengers off-boarded the train 5 at minute 212
+0 Business passengers and 0 Coach passengers off-boarded the train 3 at minute 219
+Reservations summary for minute 220
+Reservations granted: 1
+Reservations refused: 5
+2 Business passengers and 2 Coach passengers on-boarded the train 1 at minute 220
+Reservations summary for minute 230
+Reservations granted: 0
+Reservations refused: 4
+4 Business passengers and 0 Coach passengers off-boarded the train 1 at minute 230
+0 Business passengers and 8 Coach passengers on-boarded the train 2 at minute 231
+0 Business passengers and 0 Coach passengers off-boarded the train 2 at minute 234
+Reservations summary for minute 240
+Reservations granted: 1
+Reservations refused: 5
+Reservations summary for minute 250
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 260
+Reservations granted: 2
+Reservations refused: 5
+Reservations summary for minute 270
+Reservations granted: 2
+Reservations refused: 4
+Reservations summary for minute 280
+Reservations granted: 2
+Reservations refused: 5
+Reservations summary for minute 290
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers on-boarded the train 1 at minute 290
+0 Business passengers and 8 Coach passengers on-boarded the train 4 at minute 295
+Reservations summary for minute 300
+Reservations granted: 3
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers off-boarded the train 4 at minute 305
+Reservations summary for minute 310
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers on-boarded the train 5 at minute 311
+0 Business passengers and 0 Coach passengers off-boarded the train 5 at minute 312
+0 Business passengers and 0 Coach passengers off-boarded the train 1 at minute 315
+Reservations summary for minute 320
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 330
+Reservations granted: 0
+Reservations refused: 5
+Reservations summary for minute 340
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 350
+Reservations granted: 1
+Reservations refused: 5
+0 Business passengers and 18 Coach passengers on-boarded the train 4 at minute 355
+Reservations summary for minute 360
+Reservations granted: 0
+Reservations refused: 4
+5 Business passengers and 18 Coach passengers on-boarded the train 3 at minute 364
+0 Business passengers and 0 Coach passengers off-boarded the train 4 at minute 365
+0 Business passengers and 0 Coach passengers off-boarded the train 3 at minute 366
+Reservations summary for minute 370
+Reservations granted: 1
+Reservations refused: 5
+Reservations summary for minute 380
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 390
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 400
+Reservations granted: 1
+Reservations refused: 5
+Reservations summary for minute 410
+Reservations granted: 1
+Reservations refused: 4
+0 Business passengers and 18 Coach passengers on-boarded the train 5 at minute 411
+0 Business passengers and 0 Coach passengers off-boarded the train 5 at minute 412
+Reservations summary for minute 420
+Reservations granted: 1
+Reservations refused: 5
+0 Business passengers and 8 Coach passengers on-boarded the train 2 at minute 420
+0 Business passengers and 0 Coach passengers off-boarded the train 2 at minute 425
+8 Business passengers and 5 Coach passengers on-boarded the train 4 at minute 425
+Reservations summary for minute 430
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers off-boarded the train 4 at minute 435
+Reservations summary for minute 440
+Reservations granted: 2
+Reservations refused: 5
+Reservations summary for minute 450
+Reservations granted: 1
+Reservations refused: 4
+0 Business passengers and 6 Coach passengers on-boarded the train 1 at minute 450
+1 Business passengers and 0 Coach passengers on-boarded the train 3 at minute 456
+Reservations summary for minute 460
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers off-boarded the train 1 at minute 462
+0 Business passengers and 0 Coach passengers off-boarded the train 3 at minute 469
+Reservations summary for minute 470
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 480
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 490
+Reservations granted: 1
+Reservations refused: 5
+Reservations summary for minute 500
+Reservations granted: 1
+Reservations refused: 4
+0 Business passengers and 14 Coach passengers on-boarded the train 2 at minute 505
+Reservations summary for minute 510
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 3 Coach passengers on-boarded the train 5 at minute 511
+0 Business passengers and 3 Coach passengers off-boarded the train 2 at minute 512
+0 Business passengers and 5 Coach passengers off-boarded the train 5 at minute 512
+0 Business passengers and 7 Coach passengers on-boarded the train 4 at minute 515
+Reservations summary for minute 520
+Reservations granted: 1
+Reservations refused: 4
+0 Business passengers and 9 Coach passengers off-boarded the train 4 at minute 525
+Reservations summary for minute 530
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers on-boarded the train 3 at minute 535
+Reservations summary for minute 540
+Reservations granted: 0
+Reservations refused: 4
+1 Business passengers and 1 Coach passengers off-boarded the train 3 at minute 542
+Reservations summary for minute 550
+Reservations granted: 0
+Reservations refused: 5
+Reservations summary for minute 560
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 8 Coach passengers on-boarded the train 1 at minute 562
+Reservations summary for minute 570
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 580
+Reservations granted: 0
+Reservations refused: 5
+2 Business passengers and 0 Coach passengers off-boarded the train 1 at minute 584
+0 Business passengers and 0 Coach passengers on-boarded the train 4 at minute 585
+Reservations summary for minute 590
+Reservations granted: 1
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers off-boarded the train 4 at minute 595
+Reservations summary for minute 600
+Reservations granted: 0
+Reservations refused: 5
+Reservations summary for minute 610
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers on-boarded the train 5 at minute 611
+0 Business passengers and 2 Coach passengers off-boarded the train 5 at minute 612
+0 Business passengers and 0 Coach passengers on-boarded the train 3 at minute 619
+Reservations summary for minute 620
+Reservations granted: 0
+Reservations refused: 5
+5 Business passengers and 0 Coach passengers off-boarded the train 3 at minute 620
+Reservations summary for minute 630
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 640
+Reservations granted: 0
+Reservations refused: 5
+Reservations summary for minute 650
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 660
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 670
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 5 Coach passengers on-boarded the train 4 at minute 675
+Reservations summary for minute 680
+Reservations granted: 0
+Reservations refused: 4
+8 Business passengers and 0 Coach passengers off-boarded the train 4 at minute 685
+Reservations summary for minute 690
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 1 Coach passengers on-boarded the train 3 at minute 699
+Reservations summary for minute 700
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 3 Coach passengers on-boarded the train 1 at minute 700
+0 Business passengers and 0 Coach passengers off-boarded the train 3 at minute 705
+Reservations summary for minute 710
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers on-boarded the train 5 at minute 711
+0 Business passengers and 3 Coach passengers off-boarded the train 5 at minute 712
+0 Business passengers and 11 Coach passengers off-boarded the train 1 at minute 714
+Reservations summary for minute 720
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 730
+Reservations granted: 0
+Reservations refused: 5
+Reservations summary for minute 740
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 750
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 6 Coach passengers on-boarded the train 4 at minute 755
+Reservations summary for minute 760
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers off-boarded the train 4 at minute 765
+Reservations summary for minute 770
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 780
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers on-boarded the train 2 at minute 786
+Reservations summary for minute 790
+Reservations granted: 1
+Reservations refused: 4
+0 Business passengers and 1 Coach passengers off-boarded the train 2 at minute 798
+Reservations summary for minute 800
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers on-boarded the train 4 at minute 805
+Reservations summary for minute 810
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers on-boarded the train 5 at minute 811
+0 Business passengers and 16 Coach passengers off-boarded the train 4 at minute 815
+Reservations summary for minute 820
+Reservations granted: 0
+Reservations refused: 5
+Reservations summary for minute 830
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers on-boarded the train 1 at minute 830
+Reservations summary for minute 840
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 850
+Reservations granted: 0
+Reservations refused: 5
+Reservations summary for minute 860
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 870
+Reservations granted: 0
+Reservations refused: 5
+Reservations summary for minute 880
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers on-boarded the train 2 at minute 881
+0 Business passengers and 6 Coach passengers on-boarded the train 3 at minute 888
+Reservations summary for minute 890
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers on-boarded the train 4 at minute 895
+0 Business passengers and 19 Coach passengers off-boarded the train 3 at minute 899
+Reservations summary for minute 900
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 12 Coach passengers off-boarded the train 2 at minute 900
+0 Business passengers and 10 Coach passengers off-boarded the train 4 at minute 905
+Reservations summary for minute 910
+Reservations granted: 0
+Reservations refused: 5
+Reservations summary for minute 920
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers on-boarded the train 3 at minute 921
+Reservations summary for minute 930
+Reservations granted: 0
+Reservations refused: 4
+Reservations summary for minute 940
+Reservations granted: 0
+Reservations refused: 5
+0 Business passengers and 0 Coach passengers on-boarded the train 4 at minute 945
+Reservations summary for minute 950
+Reservations granted: 0
+Reservations refused: 4
+0 Business passengers and 0 Coach passengers on-boarded the train 2 at minute 958
+Reservations summary for minute 960
+Reservations granted: 0
+Reservations refused: 5
+---------------------------------------------------------------
+
+Train 1 summary
+Total served itinerary : 8
+Total passengers : 33
+Busiest section between station 2 and 7
+
+Train 2 summary
+Total served itinerary : 8
+Total passengers : 48
+Busiest section between station 12 and 9
+
+Train 3 summary
+Total served itinerary : 12
+Total passengers : 55
+Busiest section between station 4 and 10
+
+Train 4 summary
+Total served itinerary : 18
+Total passengers : 73
+Busiest section between station 15 and 10
+
+Train 5 summary
+Total served itinerary : 13
+Total passengers : 51
+Busiest section between station 20 and 15
+
+Total # of requests : 539
+Total # of granted request : 59
+---------------------------------------------------------------
